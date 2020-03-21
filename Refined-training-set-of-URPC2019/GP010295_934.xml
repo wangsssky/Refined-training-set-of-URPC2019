@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>GP010295_934.jpg</filename>
+	<path>/home/wanglin/Datasets/URPC/train_data/data/GP010295_934.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>holothurian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>205</ymin>
+			<xmax>497</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>CHN083846_0182</filename>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>297</xmin>
+         <ymin>70</ymin>
+         <xmax>365</xmax>
+         <ymax>127</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>469</xmin>
+         <ymin>54</ymin>
+         <xmax>529</xmax>
+         <ymax>107</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>449</xmin>
+         <ymin>218</ymin>
+         <xmax>533</xmax>
+         <ymax>321</ymax>
+      </bndbox>
+   </object>
+</annotation>

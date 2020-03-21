@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>GP010293_322</filename>
+   <object>
+      <name>scallop</name>
+      <bndbox>
+         <xmin>415</xmin>
+         <ymin>314</ymin>
+         <xmax>449</xmax>
+         <ymax>342</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>301</xmin>
+         <ymin>303</ymin>
+         <xmax>349</xmax>
+         <ymax>356</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>293</xmin>
+         <ymin>151</ymin>
+         <xmax>321</xmax>
+         <ymax>177</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>scallop</name>
+      <bndbox>
+         <xmin>128</xmin>
+         <ymin>105</ymin>
+         <xmax>155</xmax>
+         <ymax>132</ymax>
+      </bndbox>
+   </object>
+</annotation>

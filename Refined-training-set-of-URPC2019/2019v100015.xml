@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>2019v100015.jpg</filename>
+	<path>/home/wanglin/Datasets/URPC/train_data/data/2019v100015.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scallop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>962</xmin>
+			<ymin>1666</ymin>
+			<xmax>1313</xmax>
+			<ymax>1823</ymax>
+		</bndbox>
+	</object>
+</annotation>

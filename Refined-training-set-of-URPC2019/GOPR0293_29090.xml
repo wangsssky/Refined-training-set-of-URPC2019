@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>GOPR0293_29090</filename>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>1473</xmin>
+         <ymin>723</ymin>
+         <xmax>1729</xmax>
+         <ymax>958</ymax>
+      </bndbox>
+   </object>
+</annotation>

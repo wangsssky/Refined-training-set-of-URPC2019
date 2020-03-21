@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>YN020001_9009</filename>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>349</xmin>
+         <ymin>289</ymin>
+         <xmax>401</xmax>
+         <ymax>344</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>475</xmin>
+         <ymin>176</ymin>
+         <xmax>549</xmax>
+         <ymax>243</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>349</xmin>
+         <ymin>161</ymin>
+         <xmax>407</xmax>
+         <ymax>216</ymax>
+      </bndbox>
+   </object>
+</annotation>

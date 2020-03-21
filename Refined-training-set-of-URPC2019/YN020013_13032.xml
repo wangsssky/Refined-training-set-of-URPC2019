@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>YN020013_13032</filename>
+   <object>
+      <name>scallop</name>
+      <bndbox>
+         <xmin>86</xmin>
+         <ymin>308</ymin>
+         <xmax>126</xmax>
+         <ymax>346</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>303</xmin>
+         <ymin>345</ymin>
+         <xmax>354</xmax>
+         <ymax>395</ymax>
+      </bndbox>
+   </object>
+</annotation>

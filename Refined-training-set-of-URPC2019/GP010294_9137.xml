@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>GP010294_9137</filename>
+   <object>
+      <name>scallop</name>
+      <bndbox>
+         <xmin>740</xmin>
+         <ymin>436</ymin>
+         <xmax>815</xmax>
+         <ymax>540</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>860</xmin>
+         <ymin>636</ymin>
+         <xmax>1010</xmax>
+         <ymax>795</ymax>
+      </bndbox>
+   </object>
+</annotation>

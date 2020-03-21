@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>CHN083846_0326</filename>
+   <object>
+      <name>scallop</name>
+      <bndbox>
+         <xmin>36</xmin>
+         <ymin>351</ymin>
+         <xmax>70</xmax>
+         <ymax>399</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>180</xmin>
+         <ymin>322</ymin>
+         <xmax>272</xmax>
+         <ymax>415</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>118</xmin>
+         <ymin>47</ymin>
+         <xmax>173</xmax>
+         <ymax>107</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>96</xmin>
+         <ymin>89</ymin>
+         <xmax>127</xmax>
+         <ymax>138</ymax>
+      </bndbox>
+   </object>
+</annotation>

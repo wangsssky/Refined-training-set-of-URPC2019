@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>2019v100358</filename>
+	<object>
+		<name>scallop</name>
+		<bndbox>
+			<xmin>2610</xmin>
+			<ymin>665</ymin>
+			<xmax>2861</xmax>
+			<ymax>886</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>GOPR0293_35525</filename>
+   <object>
+      <name>starfish</name>
+      <bndbox>
+         <xmin>1293</xmin>
+         <ymin>431</ymin>
+         <xmax>1437</xmax>
+         <ymax>527</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>1772</xmin>
+         <ymin>748</ymin>
+         <xmax>1920</xmax>
+         <ymax>902</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>364</xmin>
+         <ymin>642</ymin>
+         <xmax>606</xmax>
+         <ymax>744</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>1112</xmin>
+         <ymin>842</ymin>
+         <xmax>1362</xmax>
+         <ymax>1074</ymax>
+      </bndbox>
+   </object>
+</annotation>

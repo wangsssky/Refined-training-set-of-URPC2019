@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>YN020001_8257</filename>
+   <object>
+      <name>scallop</name>
+      <bndbox>
+         <xmin>663</xmin>
+         <ymin>102</ymin>
+         <xmax>682</xmax>
+         <ymax>120</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>scallop</name>
+      <bndbox>
+         <xmin>517</xmin>
+         <ymin>264</ymin>
+         <xmax>552</xmax>
+         <ymax>293</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>scallop</name>
+      <bndbox>
+         <xmin>564</xmin>
+         <ymin>344</ymin>
+         <xmax>601</xmax>
+         <ymax>379</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>363</xmin>
+         <ymin>17</ymin>
+         <xmax>416</xmax>
+         <ymax>80</ymax>
+      </bndbox>
+   </object>
+</annotation>

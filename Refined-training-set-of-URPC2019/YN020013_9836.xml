@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>YN020013_9836</filename>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>433</xmin>
+         <ymin>87</ymin>
+         <xmax>465</xmax>
+         <ymax>132</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>464</xmin>
+         <ymin>174</ymin>
+         <xmax>517</xmax>
+         <ymax>240</ymax>
+      </bndbox>
+   </object>
+</annotation>

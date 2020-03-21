@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>2019v100453</filename>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>2671</xmin>
+			<ymin>826</ymin>
+			<xmax>2855</xmax>
+			<ymax>998</ymax>
+		</bndbox>
+	</object>
+</annotation>

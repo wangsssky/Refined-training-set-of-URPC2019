@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>GP010294_4457</filename>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>723</xmin>
+         <ymin>198</ymin>
+         <xmax>814</xmax>
+         <ymax>301</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>812</xmin>
+         <ymin>773</ymin>
+         <xmax>926</xmax>
+         <ymax>930</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>scallop</name>
+      <bndbox>
+         <xmin>1088</xmin>
+         <ymin>315</ymin>
+         <xmax>1233</xmax>
+         <ymax>392</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>starfish</name>
+      <bndbox>
+         <xmin>1047</xmin>
+         <ymin>549</ymin>
+         <xmax>1238</xmax>
+         <ymax>699</ymax>
+      </bndbox>
+   </object>
+</annotation>

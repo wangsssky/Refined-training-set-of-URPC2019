@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>2019v100572</filename>
+	<object>
+		<name>scallop</name>
+		<bndbox>
+			<xmin>997</xmin>
+			<ymin>1877</ymin>
+			<xmax>1170</xmax>
+			<ymax>2031</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1748</xmin>
+			<ymin>1701</ymin>
+			<xmax>1872</xmax>
+			<ymax>1809</ymax>
+		</bndbox>
+	</object>
+</annotation>

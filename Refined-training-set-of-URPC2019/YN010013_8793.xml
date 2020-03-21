@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>YN010013_8793.jpg</filename>
+	<path>/home/wanglin/Datasets/URPC/train_data/data/YN010013_8793.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scallop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>132</ymin>
+			<xmax>324</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

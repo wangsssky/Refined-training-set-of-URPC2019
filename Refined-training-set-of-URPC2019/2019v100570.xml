@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>2019v100570</filename>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1614</xmin>
+			<ymin>774</ymin>
+			<xmax>1801</xmax>
+			<ymax>961</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scallop</name>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>1608</ymin>
+			<xmax>553</xmax>
+			<ymax>2086</ymax>
+		</bndbox>
+	</object>
+</annotation>

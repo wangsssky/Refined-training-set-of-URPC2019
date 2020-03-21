@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>YN020002_9263</filename>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>286</xmin>
+         <ymin>271</ymin>
+         <xmax>340</xmax>
+         <ymax>329</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>159</xmin>
+         <ymin>50</ymin>
+         <xmax>235</xmax>
+         <ymax>125</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>starfish</name>
+      <bndbox>
+         <xmin>428</xmin>
+         <ymin>223</ymin>
+         <xmax>472</xmax>
+         <ymax>267</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>starfish</name>
+      <bndbox>
+         <xmin>489</xmin>
+         <ymin>304</ymin>
+         <xmax>531</xmax>
+         <ymax>337</ymax>
+      </bndbox>
+   </object>
+</annotation>

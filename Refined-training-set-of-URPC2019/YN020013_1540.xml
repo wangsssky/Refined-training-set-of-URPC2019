@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>YN020013_1540</filename>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>275</xmin>
+         <ymin>192</ymin>
+         <xmax>335</xmax>
+         <ymax>230</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>236</xmin>
+         <ymin>221</ymin>
+         <xmax>279</xmax>
+         <ymax>263</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>starfish</name>
+      <bndbox>
+         <xmin>70</xmin>
+         <ymin>273</ymin>
+         <xmax>163</xmax>
+         <ymax>344</ymax>
+      </bndbox>
+   </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>YN020002_363.jpg</filename>
+	<path>/home/wanglin/Datasets/URPC/train_data/data/YN020002_363.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>holothurian</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>301</ymin>
+			<xmax>634</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>2019v100441</filename>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1614</xmin>
+			<ymin>742</ymin>
+			<xmax>1868</xmax>
+			<ymax>865</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>2678</xmin>
+			<ymin>1344</ymin>
+			<xmax>2965</xmax>
+			<ymax>1612</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>3174</xmin>
+			<ymin>668</ymin>
+			<xmax>3450</xmax>
+			<ymax>936</ymax>
+		</bndbox>
+	</object>
+</annotation>

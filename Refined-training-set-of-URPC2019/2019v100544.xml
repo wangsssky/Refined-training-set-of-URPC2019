@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>2019v100544</filename>
+	<object>
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>950</ymin>
+			<xmax>129</xmax>
+			<ymax>1236</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>416</xmin>
+			<ymin>772</ymin>
+			<xmax>808</xmax>
+			<ymax>1007</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>986</xmin>
+			<ymin>1047</ymin>
+			<xmax>1378</xmax>
+			<ymax>1415</ymax>
+		</bndbox>
+	</object>
+</annotation>

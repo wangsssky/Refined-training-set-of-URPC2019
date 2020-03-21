@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>YN020001_13168</filename>
+   <object>
+      <name>starfish</name>
+      <bndbox>
+         <xmin>50</xmin>
+         <ymin>296</ymin>
+         <xmax>112</xmax>
+         <ymax>338</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>77</xmin>
+         <ymin>212</ymin>
+         <xmax>102</xmax>
+         <ymax>227</ymax>
+      </bndbox>
+   </object>
+</annotation>

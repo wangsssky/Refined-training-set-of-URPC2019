@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>YDXJ0001_5051</filename>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>312</xmin>
+         <ymin>315</ymin>
+         <xmax>451</xmax>
+         <ymax>381</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>465</xmin>
+         <ymin>246</ymin>
+         <xmax>496</xmax>
+         <ymax>281</ymax>
+      </bndbox>
+   </object>
+</annotation>

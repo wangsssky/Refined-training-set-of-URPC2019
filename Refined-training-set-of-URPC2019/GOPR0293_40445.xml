@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>GOPR0293_40445</filename>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>311</xmin>
+         <ymin>839</ymin>
+         <xmax>561</xmax>
+         <ymax>1078</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>573</xmin>
+         <ymin>882</ymin>
+         <xmax>841</xmax>
+         <ymax>974</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>814</xmin>
+         <ymin>836</ymin>
+         <xmax>984</xmax>
+         <ymax>1020</ymax>
+      </bndbox>
+   </object>
+</annotation>

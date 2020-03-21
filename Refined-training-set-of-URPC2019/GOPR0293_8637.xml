@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>GOPR0293_8637</filename>
+   <object>
+      <name>starfish</name>
+      <bndbox>
+         <xmin>349</xmin>
+         <ymin>617</ymin>
+         <xmax>421</xmax>
+         <ymax>673</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>starfish</name>
+      <bndbox>
+         <xmin>191</xmin>
+         <ymin>754</ymin>
+         <xmax>281</xmax>
+         <ymax>815</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>322</xmin>
+         <ymin>515</ymin>
+         <xmax>394</xmax>
+         <ymax>593</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>295</xmin>
+         <ymin>969</ymin>
+         <xmax>396</xmax>
+         <ymax>1055</ymax>
+      </bndbox>
+   </object>
+</annotation>

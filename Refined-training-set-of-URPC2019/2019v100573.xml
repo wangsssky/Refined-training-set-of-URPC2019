@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>2019v100573</filename>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>1572</ymin>
+			<xmax>502</xmax>
+			<ymax>1830</ymax>
+		</bndbox>
+	</object>
+</annotation>

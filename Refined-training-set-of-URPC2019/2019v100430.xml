@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>2019v100430</filename>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>2102</xmin>
+			<ymin>961</ymin>
+			<xmax>2429</xmax>
+			<ymax>1073</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scallop</name>
+		<bndbox>
+			<xmin>2010</xmin>
+			<ymin>1549</ymin>
+			<xmax>2242</xmax>
+			<ymax>1672</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1040</xmin>
+			<ymin>1398</ymin>
+			<xmax>1323</xmax>
+			<ymax>1593</ymax>
+		</bndbox>
+	</object>
+</annotation>

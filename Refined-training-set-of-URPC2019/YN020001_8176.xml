@@ -1,0 +1,14 @@
+<annotation>
+	<folder>data</folder>
+	<filename>YN020001_8176.jpg</filename>
+	<path>/home/wanglin/Datasets/URPC/train_data/data/YN020001_8176.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

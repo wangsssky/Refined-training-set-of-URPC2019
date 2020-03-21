@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>YDXJ0013_8720.jpg</filename>
+	<path>/home/wanglin/Datasets/URPC/train_data/data/YDXJ0013_8720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>echinus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>324</ymin>
+			<xmax>342</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

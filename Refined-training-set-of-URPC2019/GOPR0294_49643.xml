@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>GOPR0294_49643</filename>
+   <object>
+      <name>scallop</name>
+      <bndbox>
+         <xmin>215</xmin>
+         <ymin>258</ymin>
+         <xmax>229</xmax>
+         <ymax>271</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>scallop</name>
+      <bndbox>
+         <xmin>233</xmin>
+         <ymin>242</ymin>
+         <xmax>247</xmax>
+         <ymax>267</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>scallop</name>
+      <bndbox>
+         <xmin>263</xmin>
+         <ymin>347</ymin>
+         <xmax>298</xmax>
+         <ymax>385</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>443</xmin>
+         <ymin>170</ymin>
+         <xmax>482</xmax>
+         <ymax>214</ymax>
+      </bndbox>
+   </object>
+</annotation>

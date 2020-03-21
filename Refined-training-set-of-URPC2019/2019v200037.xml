@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>2019v200037</filename>
+	<object>
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>1114</ymin>
+			<xmax>560</xmax>
+			<ymax>1256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1206</xmin>
+			<ymin>436</ymin>
+			<xmax>1375</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>622</xmin>
+			<ymin>835</ymin>
+			<xmax>805</xmax>
+			<ymax>1025</ymax>
+		</bndbox>
+	</object>
+</annotation>

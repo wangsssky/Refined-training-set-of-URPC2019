@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>GP010293_6939</filename>
+   <object>
+      <name>scallop</name>
+      <bndbox>
+         <xmin>202</xmin>
+         <ymin>271</ymin>
+         <xmax>223</xmax>
+         <ymax>284</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>scallop</name>
+      <bndbox>
+         <xmin>166</xmin>
+         <ymin>331</ymin>
+         <xmax>184</xmax>
+         <ymax>352</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>243</xmin>
+         <ymin>313</ymin>
+         <xmax>314</xmax>
+         <ymax>350</ymax>
+      </bndbox>
+   </object>
+</annotation>

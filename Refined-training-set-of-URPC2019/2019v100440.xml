@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>2019v100440</filename>
+	<object>
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1624</xmin>
+			<ymin>948</ymin>
+			<xmax>1986</xmax>
+			<ymax>1150</ymax>
+		</bndbox>
+	</object>
+</annotation>

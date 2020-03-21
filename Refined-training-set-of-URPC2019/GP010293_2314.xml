@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>GP010293_2314</filename>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>409</xmin>
+         <ymin>274</ymin>
+         <xmax>513</xmax>
+         <ymax>346</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>385</xmin>
+         <ymin>254</ymin>
+         <xmax>463</xmax>
+         <ymax>297</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>458</xmin>
+         <ymin>259</ymin>
+         <xmax>555</xmax>
+         <ymax>296</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>619</xmin>
+         <ymin>212</ymin>
+         <xmax>650</xmax>
+         <ymax>238</ymax>
+      </bndbox>
+   </object>
+</annotation>

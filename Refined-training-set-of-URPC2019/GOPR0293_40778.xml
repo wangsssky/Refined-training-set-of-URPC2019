@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>GOPR0293_40778</filename>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>593</xmin>
+         <ymin>567</ymin>
+         <xmax>879</xmax>
+         <ymax>734</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>1591</xmin>
+         <ymin>713</ymin>
+         <xmax>1692</xmax>
+         <ymax>808</ymax>
+      </bndbox>
+   </object>
+</annotation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>YN030001_7927</filename>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>285</xmin>
+         <ymin>300</ymin>
+         <xmax>337</xmax>
+         <ymax>391</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>374</xmin>
+         <ymin>30</ymin>
+         <xmax>438</xmax>
+         <ymax>74</ymax>
+      </bndbox>
+   </object>
+</annotation>

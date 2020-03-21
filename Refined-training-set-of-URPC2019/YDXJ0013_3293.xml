@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>YDXJ0013_3293.jpg</filename>
+	<path>/home/wanglin/Datasets/URPC/train_data/data/YDXJ0013_3293.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>holothurian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>222</ymin>
+			<xmax>189</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

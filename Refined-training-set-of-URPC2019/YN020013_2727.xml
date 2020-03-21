@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>YN020013_2727</filename>
+   <object>
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>192</xmin>
+         <ymin>344</ymin>
+         <xmax>276</xmax>
+         <ymax>380</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>322</xmin>
+         <ymin>271</ymin>
+         <xmax>368</xmax>
+         <ymax>327</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>272</xmin>
+         <ymin>146</ymin>
+         <xmax>312</xmax>
+         <ymax>194</ymax>
+      </bndbox>
+   </object>
+</annotation>

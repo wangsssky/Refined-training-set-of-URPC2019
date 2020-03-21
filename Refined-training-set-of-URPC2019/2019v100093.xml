@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>2019v100093.jpg</filename>
+	<path>/home/wanglin/Datasets/URPC/train_data/data/2019v100093.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>starfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>980</ymin>
+			<xmax>982</xmax>
+			<ymax>1357</ymax>
+		</bndbox>
+	</object>
+</annotation>

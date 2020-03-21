@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>GOPR0293_52183.jpg</filename>
+	<path>/home/wanglin/Datasets/URPC/train_data/data/GOPR0293_52183.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>echinus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>541</xmin>
+			<ymin>711</ymin>
+			<xmax>668</xmax>
+			<ymax>814</ymax>
+		</bndbox>
+	</object>
+</annotation>

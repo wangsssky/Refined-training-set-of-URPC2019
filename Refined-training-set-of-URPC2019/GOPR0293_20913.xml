@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>GOPR0293_20913</filename>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>622</xmin>
+         <ymin>1</ymin>
+         <xmax>702</xmax>
+         <ymax>53</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>541</xmin>
+         <ymin>161</ymin>
+         <xmax>669</xmax>
+         <ymax>267</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>echinus</name>
+      <bndbox>
+         <xmin>653</xmin>
+         <ymin>621</ymin>
+         <xmax>785</xmax>
+         <ymax>736</ymax>
+      </bndbox>
+   </object>
+</annotation>

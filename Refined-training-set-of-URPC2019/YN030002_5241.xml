@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>YN030002_5241</filename>
+   <object>
+      <name>starfish</name>
+      <bndbox>
+         <xmin>304</xmin>
+         <ymin>306</ymin>
+         <xmax>355</xmax>
+         <ymax>354</ymax>
+      </bndbox>
+   </object>
+</annotation>

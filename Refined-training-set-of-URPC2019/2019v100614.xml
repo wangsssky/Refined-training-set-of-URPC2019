@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>2019v100614.jpg</filename>
+	<path>/home/wanglin/Datasets/URPC/train_data/data/2019v100614.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>echinus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2511</xmin>
+			<ymin>1377</ymin>
+			<xmax>2785</xmax>
+			<ymax>1541</ymax>
+		</bndbox>
+	</object>
+</annotation>

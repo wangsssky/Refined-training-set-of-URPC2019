@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <filename>GOPR0293_34984</filename>
+   <object>
+      <name>starfish</name>
+      <bndbox>
+         <xmin>1322</xmin>
+         <ymin>234</ymin>
+         <xmax>1411</xmax>
+         <ymax>301</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>starfish</name>
+      <bndbox>
+         <xmin>752</xmin>
+         <ymin>804</ymin>
+         <xmax>893</xmax>
+         <ymax>931</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>starfish</name>
+      <bndbox>
+         <xmin>1064</xmin>
+         <ymin>544</ymin>
+         <xmax>1156</xmax>
+         <ymax>630</ymax>
+      </bndbox>
+   </object>
+</annotation>

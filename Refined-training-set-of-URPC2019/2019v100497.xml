@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>2019v100497.jpg</filename>
+	<path>/home/wanglin/Datasets/URPC/train_data/data/2019v100497.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>holothurian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1496</xmin>
+			<ymin>1704</ymin>
+			<xmax>1842</xmax>
+			<ymax>1810</ymax>
+		</bndbox>
+	</object>
+</annotation>
