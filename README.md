@@ -1,5 +1,5 @@
 # Refined-training-set-of-URPC2019
-if any use of this refined annotation, please cited the paper
+if any use of this refined labels, please cited the paper
 - YOLO Nano Underwater: A Fast and Compact Object Detector for Embedded Device, Lin Wang, Xiufen Ye, Huiming Xing, Zhengyang Wang, Peng Li, IEEE OCEANS 2020, Sigapore
 
 
